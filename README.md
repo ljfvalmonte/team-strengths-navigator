@@ -1,16 +1,33 @@
-# React + Vite
+# B5D-public
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Interactive artifacts for presentations, workshops, and keynotes.**
+Bridge5D / Leslie Valmonte
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Live Artifacts
 
-## React Compiler
+| Artifact | Live Link | Description |
+|----------|-----------|-------------|
+| Technology Adoption Chart | [Open](https://ljfvalmonte.github.io/B5D-public/tech-adoption-embed.html) | Interactive chart comparing U.S. adoption rates from Radio (1920) to AI Chatbots (2022). Corrected data from Pew Research, Census Bureau, Our World in Data. Designed for Canva embed. |
+| Team Strengths Navigator | [Open](https://ljfvalmonte.github.io/team-strengths-navigator/) | CliftonStrengths-based communication tool. Add team members, select a scenario, get tailored talking points and strategies. *(Hosted in its own repo.)* |
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## How to Use
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **In Canva:** Copy an "Open" link above → In your Canva slide, go to Apps → Embeds → paste the link
+- **In a browser:** Click the "Open" link to view the interactive version
+- **To share with participants:** Send the link directly; it works on any device with a browser
+
+## URL Pattern for Files in This Repo
+
+All files hosted here are accessible at:
+
+```
+https://ljfvalmonte.github.io/B5D-public/[filename]
+```
+
+---
+
+*Connecting people, purpose, and possibility.*
